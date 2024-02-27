@@ -18,22 +18,15 @@
 - 👨‍💻 Check out my portfolio at https://ahmadhatem.com/ to see some of the projects I've worked on.
 
 ### Connect with Me :
+<a href="https://wa.me/+201508902659" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
+
+
+
+<a href="https://www.facebook.com/ahmad.hatem.9638/" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahmed-hatem-367098258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://www.instagram.com/ahmadelshnawe/?igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/@Ahmad_Hatem" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
 
 ### &#x1F60A;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
