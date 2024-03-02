@@ -23,6 +23,12 @@
 
 
 
+
+<a href="mailto:mr.ahmedhatem.mo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+
+
 <a href="https://www.facebook.com/ahmad.hatem.9638/" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahmed-hatem-367098258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/ahmadelshnawe/?igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
